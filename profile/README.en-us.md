@@ -13,9 +13,13 @@
 ## 🔮 About Us
 
 👋 Hey, we're ChorusStudio, a small team of friends who love coding and tinkering with new technologies.
+
 We're a bit like travelers lost in the End dimension of code, sometimes focused, sometimes daydreaming.
+
 Sometimes, we stay up all night tackling difficult problems; other times, we chat about wild ideas while coding.
+
 Like the End islands, our projects may seem randomly scattered, but there's a mysterious order to them.
+
 We grow at our own pace, but never give up exploring unknown possibilities.
 
 ## 💫 Team Members
